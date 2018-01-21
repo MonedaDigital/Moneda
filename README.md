@@ -7,8 +7,8 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 ## Development resources
 
 - Web: [moneda.mx](https://moneda.mx)
-- Forum: [forum.getmonero.org](https://forum.moneda.mx)
-- Mail: [dev@getmonero.org](mailto:dev@moneda.mx)
+- Forum: [forum.moneda.mx](https://forum.moneda.mx)
+- Mail: [dev@moneda.mx](mailto:dev@moneda.mx)
 - GitHub: [https://github.com/monedadigital/moneda](https://github.com/monedadigital/moneda)
 - IRC: [#monero-dev on Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
 
